@@ -7,6 +7,7 @@ var sectionHeight = function() {
     $section.height(total - margin - 20);
   } else {
     $section.css('height','auto');
+    $section.css('height','auto');
   }
 }
 
